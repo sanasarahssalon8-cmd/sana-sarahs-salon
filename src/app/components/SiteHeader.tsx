@@ -130,7 +130,7 @@ export default function SiteHeader() {
           <hr className="border-white/10 my-4" />
 
           <a
-            href="https://wa.me/922138899883?text=Hi%20Sana%20Sarah%20Salon%2C%20I%20want%20to%20book%20an%20appointment."
+            href="https://wa.me/923198451172?text=Hi%20Sana%20Sarah%20Salon%2C%20I%20want%20to%20book%20an%20appointment."
             target="_blank"
             rel="noopener noreferrer"
             className="block w-full text-center bg-gradient-to-tr from-pink-600 to-fuchsia-500 py-3 rounded-full text-sm font-semibold hover:brightness-110 transition"

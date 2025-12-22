@@ -6,7 +6,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { MessageCircle, X, Download } from "lucide-react";
 import Image from "next/image";
 
-const WHATSAPP_NUMBER = "922138899883"; // ✅ actual number
+const WHATSAPP_NUMBER = "923198451172"; // ✅ actual number
 
 // --- DealCard Component ---
 function DealCard({

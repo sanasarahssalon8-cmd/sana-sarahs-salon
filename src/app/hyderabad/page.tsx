@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 import { MapPin, Phone, MessageCircle } from "lucide-react";
 
 const WA_LINK =
-  "https://api.whatsapp.com/send/?phone=922138899883&text=Hi%20Sana%20Sarah%20Salon%2C%20I%20want%20to%20book%20an%20appointment.&type=phone_number&app_absent=0";
+  "https://api.whatsapp.com/send/?phone=923198451172&text=Hi%20Sana%20Sarah%20Salon%2C%20I%20want%20to%20book%20an%20appointment.&type=phone_number&app_absent=0";
 
 export default function HyderabadBranch() {
   const branch = {

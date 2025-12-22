@@ -9,7 +9,7 @@ export default function HyderabadLocation() {
     "Plot No. B/1-54, Ground Floor, Railway Employees Housing Society, Main Auto Bhan Road, next to Bank Islamic & Haveli Restaurant, Hyderabad";
   const phones = ["0370-0918026"];
   const waLink =
-    "https://wa.me/922138899883?text=Hi%20Sana%20Sarah%20Salon%2C%20Hyderabad%20branch%20details%20please.";
+    "https://wa.me/923198451172?text=Hi%20Sana%20Sarah%20Salon%2C%20Hyderabad%20branch%20details%20please.";
   const mapSrc =
     "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3597.871960944083!2d68.34655131502803!3d25.37519418381925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x394c710034718e5f%3A0x72761edfbabe8786!2sSana%20Sarahs%20Salon%20and%20Studio%20-%20Hyderabad!5e0!3m2!1sen!2s!4v1730915402321!5m2!1sen!2s";
 

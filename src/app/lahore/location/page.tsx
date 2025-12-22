@@ -9,7 +9,7 @@ export default function LahoreLocation() {
     "House # 82 - Block B2, Gulberg III, Main MM Alam Road, Opposite OD, Lahore, Pakistan";
   const phones = ["042-37881450", "0334-0654474"];
   const waLink =
-    "https://wa.me/922138899883?text=Hi%20Sana%20Sarah%20Salon%2C%20Lahore%20branch%20details%20please.";
+    "https://wa.me/923198451172?text=Hi%20Sana%20Sarah%20Salon%2C%20Lahore%20branch%20details%20please.";
   const mapSrc =
     "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3532.612703268988!2d74.34729351503542!3d31.51673298137968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39190f6ff7b4a01f%3A0x50a7fae47c2eb38!2sSana%20Sarah%E2%80%99s%20Salon%20and%20Studio!5e0!3m2!1sen!2s!4v1730915402321!5m2!1sen!2s";
 

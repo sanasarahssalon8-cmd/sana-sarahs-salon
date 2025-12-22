@@ -86,7 +86,7 @@ const BRANCH_DATA: Record<
 };
 
 const WA_LINK =
-  "https://api.whatsapp.com/send/?phone=922138899883&text&type=phone_number&app_absent=0";
+  "https://api.whatsapp.com/send/?phone=923198451172&text&type=phone_number&app_absent=0";
 
 export default function KarachiBranchMain() {
   const { branch } = useParams<{ branch: BranchKey }>();

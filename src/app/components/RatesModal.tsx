@@ -21,7 +21,7 @@ function whatsappHref(subcat: string) {
   const text = encodeURIComponent(
     `Hi Sana Sarah Salon, I want to book *${subcat}* makeup. Please confirm availability & price.`
   );
-  return `https://wa.me/922138899883?text=${text}`;
+  return `https://wa.me/923198451172?text=${text}`;
 }
 
 function resolveBranchPrice(

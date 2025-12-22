@@ -13,7 +13,7 @@ const LABELS: Record<Category, string> = {
 };
 
 // WhatsApp
-const WA = "922138899883";
+const WA = "923198451172";
 
 type Props = {
   // "johar" | "dha" | "tariq-road" | "north-nazimabad" | "lahore" | "hyderabad"
@@ -202,7 +202,7 @@ function Card({
   const isVideo = [".mp4", ".mov"].includes(exts[extIdx]);
 
   const WA_TEXT = `Hi! I want to book ${title}).`;
-  const wa = `https://wa.me/922138899883?text=${encodeURIComponent(WA_TEXT)}`;
+  const wa = `https://wa.me/923198451172?text=${encodeURIComponent(WA_TEXT)}`;
 
   return (
     <div className="group overflow-hidden rounded-2xl border border-white/10 bg-white/[0.04]">

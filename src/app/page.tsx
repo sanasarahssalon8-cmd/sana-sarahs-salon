@@ -68,7 +68,7 @@ export default function Home() {
             {/* ---- Contact Button ---- */}
             <div className="mt-8 sm:mt-12 flex flex-col items-center gap-2" id="agent">
               <Link
-                href="https://wa.me/922138899883?text=Hi%20Sana%20Sarah%20Salon%2C%20I%20want%20to%20book%20an%20appointment."
+                href="https://wa.me/923198451172?text=Hi%20Sana%20Sarah%20Salon%2C%20I%20want%20to%20book%20an%20appointment."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group inline-flex items-center gap-3 rounded-2xl bg-gradient-to-tr from-fuchsia-600 to-pink-500 px-5 py-3 sm:px-6 sm:py-3.5 text-sm sm:text-base font-semibold shadow-xl hover:scale-[1.02] active:scale-[0.98] transition"

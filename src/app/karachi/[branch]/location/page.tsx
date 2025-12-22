@@ -185,7 +185,7 @@ export default function LocationPage() {
         {/* Talk to agent */}
         <div className="mt-10 flex flex-col items-center gap-2">
           <Link
-            href="https://wa.me/922138899883?text=Hi%20Sana%20Sarah%20Salon%2C%20I%20want%20to%20book%20an%20appointment."
+            href="https://wa.me/923198451172?text=Hi%20Sana%20Sarah%20Salon%2C%20I%20want%20to%20book%20an%20appointment."
             target="_blank"
             rel="noopener noreferrer"
             className="group inline-flex items-center gap-3 rounded-2xl bg-gradient-to-tr from-fuchsia-600 to-pink-500 px-6 py-3 text-sm sm:text-base font-semibold shadow-xl hover:scale-[1.02] active:scale-[0.98] transition"
