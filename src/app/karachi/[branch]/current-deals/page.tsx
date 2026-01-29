@@ -1,5 +1,5 @@
 "use client";
-
+export const runtime = 'edge';
 import React, { useMemo, useState } from "react";
 import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";
