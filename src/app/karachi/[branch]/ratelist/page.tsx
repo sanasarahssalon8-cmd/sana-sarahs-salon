@@ -1,5 +1,6 @@
 // app/karachi/[branch]/ratelist/page.tsx
 "use client";
+export const runtime = 'edge';
 
 import React, { useMemo } from "react"; // ✅ removed useState
 import { useParams } from "next/navigation";
