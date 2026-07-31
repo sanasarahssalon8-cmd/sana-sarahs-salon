@@ -23,7 +23,7 @@ const BRANCH_INFO: Record<string, { address: string; phone: string }> = {
   "tariq-road": { address: "𝐓𝐚𝐫𝐢𝐪 𝐑𝐨𝐚𝐝 𝐁𝐫𝐚𝐧𝐜𝐡: Shop # 2 Dilkusha & Gohar Residency, Plat No  6 Block 3, Delhi Co-operative Housing Society Ltd Besides Swings, Main Tariq Road, Karachi", phone: "Call us (Tariq Road): 0305-8887601, 021- 34540375" },
 };
 
-const WHATSAPP_NUMBER = "923112970678"; // <-- replace
+const WHATSAPP_NUMBER = "03112970678"; // <-- replace
 
 export default function BranchRateList() {
   const { branch } = useParams<{ branch: string }>();
@@ -40,7 +40,7 @@ export default function BranchRateList() {
         <div className="mx-auto max-w-6xl px-4 sm:px-6 py-4 flex items-center justify-between">
           <h1 className="text-lg font-semibold">{title} — Rate List</h1>
           <Link
-            href={`/ratelist/${slug}`}
+            href={`/ratelists/${slug}`}
             className="text-sm text-white/70 hover:text-white underline underline-offset-4"
           >
             Back to options
