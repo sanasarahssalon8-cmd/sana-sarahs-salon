@@ -31,7 +31,7 @@ export default function BranchRateList() {
   const title = BRANCH_LABELS[slug] ?? "Branch";
 
   // Only first file path, no state needed
-  const src = useMemo(() => `/ratelists/karachi/${slug}.jpeg`, [slug]);
+  const src = useMemo(() => `/ratelists/${slug}.jpeg`, [slug]);
   const info = BRANCH_INFO[slug] ?? { address: "Not available", phone: "N/A" };
 
   return (
