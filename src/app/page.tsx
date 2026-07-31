@@ -50,10 +50,10 @@ export default function Home() {
               <FlipCityCard
                 city="Karachi"
                 branches={[
-                  { name: "DHA Branch", slug: "dha", hrefBase: "/dha" },
-                  { name: "Johar Branch", slug: "johar", hrefBase: "/johar" },
-                  { name: "North Nazimabad Branch", slug: "north-nazimabad", hrefBase: "/north-nazimabad" },
-                  { name: "Tariq Road Branch", slug: "tariq-road", hrefBase: "/tariq-road" },
+                  { name: "DHA Branch", slug: "dha", hrefBase: "/ratelist/dha" },
+                  { name: "Johar Branch", slug: "johar", hrefBase: "/ratelist/johar" },
+                  { name: "North Nazimabad Branch", slug: "north-nazimabad", hrefBase: "/ratelist/north-nazimabad" },
+                  { name: "Tariq Road Branch", slug: "tariq-road", hrefBase: "/ratelist/tariq-road" },
                 ]}
               />
 
