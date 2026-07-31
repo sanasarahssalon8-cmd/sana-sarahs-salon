@@ -13,7 +13,7 @@ const LABELS: Record<Category, string> = {
 };
 
 // WhatsApp
-const WA = "923198451172";
+const WA = "923112970678";
 
 type Props = {
   // "johar" | "dha" | "tariq-road" | "north-nazimabad" | "lahore" | "hyderabad"
@@ -24,7 +24,7 @@ type Props = {
 // ----- PRICES -----
 // Karachi (standard)
 const KARACHI_STD = {
-  "signature-artist": 32000,
+  "signature-artist": 36000,
   "senior-artist": 28000,
 } as const;
 
@@ -38,7 +38,7 @@ const EXPERT_KHI: Record<string, number | null> = {
 
 // Owner price per branch (no discount anywhere)
 const OWNER_PRICE: Record<string, number> = {
-  johar: 40000,
+  johar: 45000,
   dha: 70000,
   "tariq-road": 70000,
   "north-nazimabad": 70000,
@@ -202,7 +202,7 @@ function Card({
   const isVideo = [".mp4", ".mov"].includes(exts[extIdx]);
 
   const WA_TEXT = `Hi! I want to book ${title}).`;
-  const wa = `https://wa.me/923198451172?text=${encodeURIComponent(WA_TEXT)}`;
+  const wa = `https://wa.me/923112970678?text=${encodeURIComponent(WA_TEXT)}`;
 
   return (
     <div className="group overflow-hidden rounded-2xl border border-white/10 bg-white/[0.04]">
